@@ -9,7 +9,6 @@ Sou um(a) apaixonado(a) por tecnologia e desenvolvimento de software. Gosto de r
 - Ferramentas: Git, MySQL, PostgreSQL, Trello, Figma etc.
 - Outros: APIs REST, Visual Studio Code, Pandas, Miro 
 
-📈 **Estatísticas do Meu GitHub:**
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
 
 🌱 **Atualmente Aprendendo:**
