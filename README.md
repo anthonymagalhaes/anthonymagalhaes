@@ -18,7 +18,7 @@ Estou estudando Banco de Dados, DevOps e Automação de tarefas para expandir mi
 📫 **Como Entrar em Contato:**
 - Email: anthonymagalhaesacosta@gmail.com
 - LinkedIn: www.linkedin.com/in/anthony-magalhães
-- Twitter: [@seuusuario](link do seu Twitter)
+
 
 🎉 **Vamos Conectar!**
 Sinta-se à vontade para explorar meus repositórios, contribuir em projetos ou simplesmente me mandar uma mensagem. Estou sempre aberto a novas ideias e colaborações!
