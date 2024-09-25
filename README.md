@@ -3,7 +3,7 @@
 🌟 **Sobre Mim:**
 Sou um apaixonado por tecnologia e desenvolvimento de software. Gosto de resolver problemas e aprender novas linguagens de programação. Atualmente, estou focado em desenvolvimento de projetos em diferentes linguagens.
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?anthonymagalhaes&show_icons=true&theme=radical)
 
 🌱 **Atualmente Aprendendo:**
 Estou estudando Banco de Dados, DevOps e Automação de tarefas para expandir minhas habilidades e conhecimentos.
