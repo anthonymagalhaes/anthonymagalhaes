@@ -1,7 +1,7 @@
 # Olá, eu sou Anthony 👋
 
 🌟 **Sobre Mim:**
-Sou um(a) apaixonado(a) por tecnologia e desenvolvimento de software. Gosto de resolver problemas e aprender novas linguagens de programação. Atualmente, estou focado(a) em desenvolvimento de projetos em diferentes linguagens.
+Sou um apaixonado por tecnologia e desenvolvimento de software. Gosto de resolver problemas e aprender novas linguagens de programação. Atualmente, estou focado em desenvolvimento de projetos em diferentes linguagens.
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
 
@@ -21,5 +21,5 @@ Estou estudando Banco de Dados, DevOps e Automação de tarefas para expandir mi
 - Twitter: [@seuusuario](link do seu Twitter)
 
 🎉 **Vamos Conectar!**
-Sinta-se à vontade para explorar meus repositórios, contribuir em projetos ou simplesmente me mandar uma mensagem. Estou sempre aberto(a) a novas ideias e colaborações!
+Sinta-se à vontade para explorar meus repositórios, contribuir em projetos ou simplesmente me mandar uma mensagem. Estou sempre aberto a novas ideias e colaborações!
 
