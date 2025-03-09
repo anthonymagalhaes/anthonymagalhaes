@@ -19,6 +19,15 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   
   
+  
+</div>
+
+##
+
+**Como Entrar em Contato:**
+<div >
+  <a href="mailto:anthonymagalhaesacosta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/anthony-magalhães"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
   <img height="110" align="right" src="https://archives.bulbagarden.net/media/upload/9/9a/Spr_B2W2_Red.png" />
   <br/>
   <br/>
@@ -26,14 +35,6 @@
   <img height="150" align="right" src="https://archives.bulbagarden.net/media/upload/4/48/Spr_b_5b_006.png" />
   <br/>
   <img height="120" align="right" src="https://archives.bulbagarden.net/media/upload/5/5d/B2W2_Nate_Back.png" />
-</div>
-
-
-**Como Entrar em Contato:**
-<div >
-  <a href="mailto:anthonymagalhaesacosta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
-  <a href="https://www.linkedin.com/in/anthony-magalhães"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-  
 </div>
 
 
