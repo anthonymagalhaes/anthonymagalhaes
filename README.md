@@ -2,7 +2,7 @@
 <p>Sinta-se à vontade para explorar meus repositórios, contribuir em projetos ou simplesmente me mandar uma mensagem.</p>
 <div>
   <a href="https://github.com/anthonymagalhaes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthonymagalhaes&show_icons=true&theme=radical">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anthonymagalhaes&show_icons=true&theme=radical">
   
 </div>
 <br/>
@@ -17,7 +17,9 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+                  
   
   
 </div>
